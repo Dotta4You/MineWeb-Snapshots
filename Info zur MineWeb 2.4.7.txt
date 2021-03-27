@@ -1,0 +1,31 @@
+
+Info zur MineWeb V2.4.7
+About MineWeb V2.4.7
+
+
+Was ist neu in MineWeb 2.4.7?
+What's new in MineWeb 2.4.7?
+
+
+- Bug fixes
+- Registrieren wurde funktionsfähig gemacht
+- Design Überarbeitung
+
+Was ist MineWeb?
+What is MineWeb?
+
+MineWeb ist eine Website, die man selbst verändern kann, das heißt ihr könnt sie auf beliebigen Webseiten-Anbietern [ zum beispiel für deinen Minecraft server usw. ] benutzen und verändern.
+MineWeb is a website that you can change yourself, i.e. you can use and modify it on any website provider [ for example for your Minecraft server, etc. ].
+
+
+Achtung!!!
+Attention!!!
+
+Ihr dürft dieses Webseiten-Template NICHT auf z.B. dev.bukkit, spigotmc etc. unter eurem Namen Hochladen!
+You may NOT upload this website template to dev.bukkit, spigotmc etc. under your name!
+
+
+Weitere Infos werde ich hier Hinschreiben:
+
+- Forum in Arbeit [ 71% Fertig ]
+- Forum in progress [ 71% Finished ]
